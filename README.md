@@ -1,7 +1,6 @@
 # Meetup js
 
-a node.js interface for the meetup.com api
-
+a node.js interface for the meetup.com api based heavily on [node-twitter](https://github.com/jdub/node-twitter)
 
 ## usage
 
